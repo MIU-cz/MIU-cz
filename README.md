@@ -6,20 +6,22 @@
     <img src="./images/autor.png" alt="Autor" width="100px">
 </div>
 
-## my_Links:
+## my_Links
 
 - [My Contacts](https://mehal.my.canva.site)
-- Website - [zivotopis](https://sites.google.com/view/zivotopis-miu/kdo-jsem)
+- Website - [CV](https://sites.google.com/view/zivotopis-miu/kdo-jsem)
 - Frontend Mentor - [@MIU-cz](https://www.frontendmentor.io/profile/MIU-cz)
 - FaceBook - [@mehaligor.cz](https://www.facebook.com/mehaligor.cz/)
 
-## Jsem frontend vývojář.
+## I am a frontend developer
+
 HTML, CSS, SCSS, JavaScript, PHP, Bootstrap, BEM.
-Pracuji s BPM, Figma, Photoshop, Muse, Canva, Tilda, Wix, WordPress, prezentace MS PowerPoint, nástroje Google a další.
-Znám metodiku Agile, Scrum, Kanban, Waterfall
+I work with BPM, Figma, Photoshop, Muse, Canva, Tilda, Wix, WordPress, MS PowerPoint presentations, Google tools and more.
+I know Agile, Scrum, Kanban, Waterfall methodology
 
 # --- #
-Momentálně hledám práci a jsem připraven na jakékoliv možnosti a formy spolupráce.
-Jsem začínající vývojář (junior) a opravdu potřebuji praxi.
 
-### Jsem si jist, že v mé osobě najdete spolehlivého a zodpovědného kolegu nebo partnera.
+I am currently looking for a job and I am ready for any possibilities and forms of cooperation.
+I'm a beginner developer (junior) and I really need some practice.
+
+### I am sure that in my person you will find a reliable and responsible colleague or partner
