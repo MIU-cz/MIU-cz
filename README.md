@@ -21,7 +21,7 @@ I know Agile, Scrum, Kanban, Waterfall methodology
 
 # --- #
 
-I am currently looking for a job and I am ready for any possibilities and forms of cooperation. 
+I am currently looking for a job and I am ready for any possibilities and forms of cooperation.   
 I'm a beginner developer (junior) and I really need some practice.
 
 ### I am sure that in my person you will find a reliable and responsible colleague or partner
