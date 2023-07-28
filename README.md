@@ -26,6 +26,10 @@ I'm a beginner developer (junior) and I really need some practice.
 
 ### I am sure that in my person you will find a reliable and responsible colleague or partner
 
+# --- #
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MIU-cz&layout=compact)
+
 [![trophy](https://github-profile-trophy.vercel.app/?username=MIU-cz&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MIU-cz&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
