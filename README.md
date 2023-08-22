@@ -11,14 +11,14 @@ I'm Igor - aka [MIU][github]
 
 ### 🤝 Connect with me
 
+[![bs card](https://img.shields.io/badge/business_card-blue)
+][biz-card]
+[![CV](https://img.shields.io/badge/my_CV_(cz)-blue)][my-cv]
+
+[![Frontend Mentor](https://img.shields.io/badge/Frontend_Mentor-profile-blue)][fr-mentor]
+
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)][linkedin]
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)][Facebook]
-
-[![Static Badge](https://img.shields.io/badge/business_card-blue)
-][biz-card]
-[![Static Badge](https://img.shields.io/badge/my_CV_(cz)-blue)][my-cv]
-
-[![Frontend Mentor](https://img.shields.io/badge/Frontend_Mentor-projects-blue)][fr-mentor]
 
 </td>
 
@@ -29,6 +29,16 @@ I'm Igor - aka [MIU][github]
 </table>
 
 ---
+
+[![work projects](https://img.shields.io/badge/my_work-projects-orange)][my-work]
+[![Frontend Mentor](https://img.shields.io/badge/Frontend_Mentor-projects-orange)][fr-mentor-project]
+[![some projects](https://img.shields.io/badge/my_some-projects-orange)][some-projects]
+
+---
+
+<table>
+<tr>
+<td>
 
 ### 💻 Tech Stack
 
@@ -64,10 +74,9 @@ I'm Igor - aka [MIU][github]
 ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
 ![Google](https://img.shields.io/badge/google-4285F4?style=for-the-badge&logo=google&logoColor=white)
 
-<!-- ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
-![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black) -->
+</td>
 
----
+<td>
 
 ```js
 const MIU = {
@@ -104,6 +113,13 @@ let runAction = 'coooding...';
 MIU.addSkills(newFramework);
 MIU.doIt(runAction);
 ```
+
+</td>
+</tr>
+</table>
+
+<!-- ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
+![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black) -->
 
 ---
 
@@ -147,3 +163,7 @@ MIU.doIt(runAction);
 [Facebook]: https://www.facebook.com/mehaligor.cz
 
 [fr-mentor]: https://www.frontendmentor.io/profile/MIU-cz
+
+[my-work]: https://miu-cz.github.io/My_works/
+[fr-mentor-project]: https://miu-cz.github.io/FrontEnd-Mentor-projects/
+[some-projects]: <https://miu-cz.github.io/Portfolio/>
