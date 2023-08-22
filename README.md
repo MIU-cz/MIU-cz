@@ -1,19 +1,33 @@
 ![](./images/git-cover.png)
 
-Карточка профиля:
+<table>
+<tr>
+<td>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MIU-cz&theme=solarized_dark">
+</td>
+<td>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MIU-cz&theme=solarized_dark">
+</td>
+</tr>
+</table>
+
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MIU-cz&theme=solarized_dark)
 
-Статистика языков в коммитах:
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MIU-cz&theme=solarized_dark)
-
-Статистика языков в репозиториях:
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MIU-cz&theme=solarized_dark)
-
+<table>
+<tr>
+<td>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=MIU-cz&theme=solarized_dark">
+</td>
+<td>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=MIU-cz&theme=solarized_dark">
+</td>
+</tr>
+</table>
 Статистика профиля:
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=MIU-cz&theme=solarized_dark)
+![]()
 
 Данные по коммитам за сутки:
-![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=MIU-cz&theme=solarized_dark)
+![]()
 
 # MIU-Git
 
