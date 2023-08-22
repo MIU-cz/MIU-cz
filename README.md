@@ -1,7 +1,7 @@
 ![Main Banner](./images/git-cover.png)
 
 <table>
-<tr>
+<tr width="100%">
 <td>
 <img src="./images/autor.png" alt="Autor" width="24px">
 
