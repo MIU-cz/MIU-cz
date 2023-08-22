@@ -23,18 +23,24 @@ I'm Igor - aka [MIU][github]
 </td>
 
 <td>
+
+### my works
+
+[![work projects](https://img.shields.io/badge/my_work-projects-orange)][my-work]
+
+[![Frontend Mentor](https://img.shields.io/badge/Frontend_Mentor-projects-orange)][fr-mentor-project]
+
+[![some projects](https://img.shields.io/badge/my_some-projects-orange)][some-projects]
+
+</td>
+
+<td>
 <img alighn="right" alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MIU-cz&theme=dark&layout=compact">
 </td>
 </tr>
 </table>
 
----
-
-[![work projects](https://img.shields.io/badge/my_work-projects-orange)][my-work]
-[![Frontend Mentor](https://img.shields.io/badge/Frontend_Mentor-projects-orange)][fr-mentor-project]
-[![some projects](https://img.shields.io/badge/my_some-projects-orange)][some-projects]
-
----
+---  
 
 <table>
 <tr>
