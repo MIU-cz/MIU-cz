@@ -24,7 +24,7 @@ I'm Igor - aka [MIU][github]
 
 <td>
 
-### my works
+## **⚒️ My WORKS**
 
 [![work projects](https://img.shields.io/badge/my_work-projects-orange)][my-work]
 
