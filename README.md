@@ -1,4 +1,4 @@
-# ![Main Banner](./images/git-cover.png)
+# ![Main Banner](./images/bg-cov.png)
 
 <img src="./images/autor.png" alt="Autor" width="24px">
 
