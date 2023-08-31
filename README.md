@@ -7,6 +7,21 @@ I'm Igor - aka [MIU][github]
 
 <table>
 <tr width="100%">
+
+<td>
+
+### **⚒️ My WORKS**
+
+[![Work projects](https://img.shields.io/badge/my_Work-projects-orange)][my-work]
+
+[![PHP+MySQL projects](https://img.shields.io/badge/php_MySql-projects-orange)][my-php]
+
+[![Frontend Mentor](https://img.shields.io/badge/Frontend_Mentor-projects-orange)][fr-mentor-project]
+
+[![some projects](https://img.shields.io/badge/my_some-projects-orange)][some-projects]
+
+</td>
+
 <td>
 
 ### 🤝 Connect with me
@@ -19,18 +34,6 @@ I'm Igor - aka [MIU][github]
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)][linkedin]
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)][Facebook]
-
-</td>
-
-<td>
-
-## **⚒️ My WORKS**
-
-[![work projects](https://img.shields.io/badge/my_work-projects-orange)][my-work]
-
-[![Frontend Mentor](https://img.shields.io/badge/Frontend_Mentor-projects-orange)][fr-mentor-project]
-
-[![some projects](https://img.shields.io/badge/my_some-projects-orange)][some-projects]
 
 </td>
 
@@ -171,5 +174,6 @@ MIU.doIt(runAction);
 [fr-mentor]: https://www.frontendmentor.io/profile/MIU-cz
 
 [my-work]: https://miu-cz.github.io/My_works/
+[my-php]: https://miu-cz.github.io/PHP-Work/
 [fr-mentor-project]: https://miu-cz.github.io/FrontEnd-Mentor-projects/
 [some-projects]: <https://miu-cz.github.io/Portfolio/>
