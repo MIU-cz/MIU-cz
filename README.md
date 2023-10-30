@@ -1,4 +1,4 @@
-# ![Main Banner](./images/bg-cov.png)
+# ![Main Banner](./images/bg-cover.png)
 
 <img src="./images/autor.png" alt="Autor" width="24px">
 
@@ -28,7 +28,7 @@ I'm Igor - aka [MIU][github]
 
 [![bs card](https://img.shields.io/badge/business_card-blue)
 ][biz-card]
-[![CV](https://img.shields.io/badge/my_CV_(cz)-blue)][my-cv]
+[![CV](https://img.shields.io/badge/my_CV-(cz)-blue)][my-cv]
 
 [![Frontend Mentor](https://img.shields.io/badge/Frontend_Mentor-profile-blue)][fr-mentor]
 
