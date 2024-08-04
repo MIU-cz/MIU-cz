@@ -5,45 +5,38 @@
 Hi there 👋 <br>
 I'm Igor - aka [MIU][github]
 
-<table>
-<tr width="100%">
-
-<td>
-
 ### **⚒️ My WORKS**
 
 [![Work projects](https://img.shields.io/badge/my_Work-projects-orange)][my-work]
-
 [![PHP+MySQL projects](https://img.shields.io/badge/php_MySql-projects-orange)][my-php]
-
 [![Frontend Mentor](https://img.shields.io/badge/Frontend_Mentor-projects-orange)][fr-mentor-project]
-
 [![some projects](https://img.shields.io/badge/my_some-projects-orange)][some-projects]
 
-</td>
-
-<td>
-
 ### 🤝 Connect with me
-
-[![bs card](https://img.shields.io/badge/business_card-blue)
-][biz-card]
-[![CV](https://img.shields.io/badge/my_CV-(cz)-blue)][my-cv]
-
-[![Frontend Mentor](https://img.shields.io/badge/Frontend_Mentor-profile-blue)][fr-mentor]
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)][linkedin]
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)][Facebook]
 
+[![bs card](https://img.shields.io/badge/business_card-blue)
+][biz-card]
+[![CV](<https://img.shields.io/badge/my_CV-(cz)-blue>)][my-cv]
+[![Frontend Mentor](https://img.shields.io/badge/Frontend_Mentor-profile-blue)][fr-mentor]
+
+<table>
+<tr width="100%">
+
+<td>
+<img width="" height="200" align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=MIU-cz&theme=algolia" alt="webDev's Github stats">
 </td>
 
 <td>
-<img alighn="right" alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MIU-cz&theme=dark&layout=compact">
+<img width="" height="200" align="right" alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MIU-cz&theme=dark&layout=compact">
 </td>
 </tr>
+
 </table>
 
----  
+---
 
 <table>
 <tr>
@@ -89,35 +82,35 @@ I'm Igor - aka [MIU][github]
 
 ```js
 const MIU = {
-    name: 'Igor',
-    age: 'always 17',
-    version: '2.0.1',
+	name: "Igor",
+	age: "always 17",
+	version: "2.0.1",
 
-    health: '100%',
-    energy: '100%',
-    vision: '100%',
-    
-    language: ['english', 'čeština'],
-    skills: ['html/css', 'js', 'sass/scss'],
-    frameworks: ['bootstrap', 'tailwind', 'vue.js', 'react'],
+	health: "100%",
+	energy: "100%",
+	vision: "100%",
 
-    action: "go to -> ",
+	language: ["english", "čeština"],
+	skills: ["html/css", "js", "sass/scss"],
+	frameworks: ["bootstrap", "tailwind", "vue.js", "react"],
 
-    learnLanguages(language) {
-        MIU.language += language;
-    },
+	action: "go to -> ",
 
-    addSkills(skill) {
-        MIU.skills += skill;
-    },
+	learnLanguages(language) {
+		MIU.language += language;
+	},
 
-    doIt(runAction) {
-        MIU.action += runAction;
-    }
-}
+	addSkills(skill) {
+		MIU.skills += skill;
+	},
 
-let newFramework = ' + Laravel';
-let runAction = 'coooding...';
+	doIt(runAction) {
+		MIU.action += runAction;
+	},
+};
+
+let newFramework = " + Laravel";
+let runAction = "coooding...";
 
 MIU.addSkills(newFramework);
 MIU.doIt(runAction);
@@ -158,22 +151,23 @@ MIU.doIt(runAction);
 </tr>
 </table>
 
-# ---  
+<img align="right" src="https://komarev.com/ghpvc/?username=MIU-cz&label=Profile%20Views%20&color=ff0000&style=flat-square" alt="MIU">
+
+# ---
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=MIU-cz&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
+
 <!-- my links -->
+
 [github]: https://github.com/MIU-cz
 [biz-card]: https://mehal.my.canva.site
 [my-cv]: https://sites.google.com/view/zivotopis-miu/kdo-jsem
-
 [linkedin]: https://www.linkedin.com/in/miu-cz
 [Facebook]: https://www.facebook.com/mehaligor.cz
-
 [fr-mentor]: https://www.frontendmentor.io/profile/MIU-cz
-
 [my-work]: https://miu-cz.github.io/My_works/
 [my-php]: https://miu-cz.github.io/PHP-Work/
 [fr-mentor-project]: https://miu-cz.github.io/FrontEnd-Mentor-projects/
-[some-projects]: <https://miu-cz.github.io/Portfolio/>
+[some-projects]: https://miu-cz.github.io/Portfolio/
